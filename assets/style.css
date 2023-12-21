@@ -25,6 +25,7 @@ body {
 
 .front-card,
 .back-card {
+    position: absolute;
     border: 5px solid black;
 }
 
