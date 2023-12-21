@@ -6,12 +6,14 @@
 
 body {
     height: 100vh;
+    display: flex;
     background: #ffb6c1;
 }
 
 .flip-match-game {
     width: 640px;
     height: 640px;
+    margin: auto;
     display: flex;
     flex-wrap: wrap;
     border: 2px solid lime;
