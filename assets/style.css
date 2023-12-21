@@ -10,16 +10,17 @@ body {
 }
 
 .flip-match-game {
-
+    width: 640px;
+    border: 2px solid lime;
 }
 
 .flip-card {
-
+    border: 2px solid aqua;
 }
 
 .front-card,
 .back-card {
-    
+    border: 5px solid black;
 }
 
 img {
