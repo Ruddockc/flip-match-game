@@ -30,6 +30,10 @@ body {
     transition: transform .2s;
 }
 
+.flip-card.flip {
+    transform: rotate(180deg);
+}
+
 .front-card,
 .back-card {
     width: 100%;
