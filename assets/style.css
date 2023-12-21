@@ -11,6 +11,8 @@ body {
 
 .flip-match-game {
     width: 640px;
+    height: 640px;
+    display: flex;
     border: 2px solid lime;
 }
 
