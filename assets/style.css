@@ -8,6 +8,20 @@ body {
     height: 100vh;
     background: #ffb6c1;
 }
+
+.flip-match-game {
+
+}
+
+.flip-card {
+
+}
+
+.front-card,
+.back-card {
+    
+}
+
 img {
     width: 100px;
     height: 150px;
